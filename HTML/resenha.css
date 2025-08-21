@@ -1,0 +1,20 @@
+h1 {
+    background: pink;
+    background-size: 30px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    text-size-adjust: 10px;
+    font-family: serif;
+}
+
+body {
+    background: rgb(158, 1, 106);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 233, 251);
+}
+
+img {
+    width: 700px;
+    margin-left: 300px;
+    margin-right: 300px;
+}

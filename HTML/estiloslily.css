@@ -1,0 +1,13 @@
+h1 {
+    background: pink;
+    background-size: 30px;
+    color:rgb(14, 88, 156);
+    text-align: center;
+    text-size-adjust: 10px;
+    font-family: serif;
+}
+
+body {
+    background: rgb(65, 169, 238);
+    font-family: sans-serif;
+}
