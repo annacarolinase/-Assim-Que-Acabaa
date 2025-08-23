@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Slab:wght@100..900&display=swap');
+
 h1 {
     background: pink;
     background-size: 30px;
@@ -9,5 +11,18 @@ h1 {
 
 body {
     background: rgb(65, 169, 238);
-    font-family: sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
+
+.container {
+    width: 90%;          
+    max-width: 1200px;   
+    margin: 0 auto;      
+    padding: 20px;       
+    border: 1px solid #ccc;
+}
+
+img {
+    width: 1200px;
+}
+

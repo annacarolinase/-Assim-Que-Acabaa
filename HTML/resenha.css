@@ -1,5 +1,5 @@
 h1 {
-    background: pink;
+    background: rgb(255, 192, 203);
     background-size: 30px;
     color:rgb(0, 0, 0);
     text-align: center;
@@ -13,8 +13,37 @@ body {
     color: rgb(255, 233, 251);
 }
 
-img {
-    width: 700px;
-    margin-left: 300px;
-    margin-right: 300px;
+.table {
+  width: 70%;
+  border-collapse: collapse;
+  margin: 20px auto;
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #555;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #e75480;
+  color: rgb(0, 0, 0);
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9d9e5;
+}
+
+tbody tr:nth-child(odd) {
+    background-color:rgb(255, 192, 203);
+}
+
+p{
+    text-align: center;
+    background-color: #f9d9e5;
 }
