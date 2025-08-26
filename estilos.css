@@ -42,3 +42,9 @@ a {
   color: white;
   text-decoration: none; 
 }
+
+.titulo {
+    text-align: center;
+    /* color: #fff; */
+    color: white;
+}
